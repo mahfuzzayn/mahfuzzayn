@@ -11,9 +11,9 @@
 [<img align="left" alt="Mahfuz Zayn | Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackexchange.svg" />][stackexchange]
 [<img align="left" alt="Mahfuz Zayn | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/steam.svg" />][steam]
 [<img align="left" alt="Mahfuz Zayn | Opencollective" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/opencollective.svg" />][opencollective]
-[<img align="left" src="Mahfuz Zayn | https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="official_dulin's DEV Profile" height="22" width="22">][dev.to]
-[<img align="left" alt="Mahfuz Zayn | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Mahfuz Zayn | producthunt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/producthunt.svg" />][producthunt]
+[<img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="official_dulin's DEV Profile" height="22" width="22">][dev.to]
+[<img align="left" alt="hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="producthunt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/producthunt.svg" />][producthunt]
 [<img align="left" alt="Mahfuz Zayn | codeium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/codeium.svg" />][codeium]
 
 
