@@ -1,4 +1,4 @@
-[![Mahfuz Zayn Banner]([https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png](https://res.cloudinary.com/dvd0x20di/image/upload/v1751488005/LinkedIn_Banner_Design_Banner_Landscape_nnjbxq.jpg))](https://mahfuzzayn.vercel.app/)
+[![Mahfuz Zayn Banner](https://res.cloudinary.com/dvd0x20di/image/upload/v1751488005/LinkedIn_Banner_Design_Banner_Landscape_nnjbxq.jpg)](https://mahfuzzayn.vercel.app/)
 
 **Hi there, I'm Mahfuz Zayn👋**
 
