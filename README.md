@@ -9,7 +9,7 @@
 
 **Connect with me**
 
-[<img align="left" alt="Mahfuz Zayn | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" style="color: white;" />][stackoverflow]
+[<img align="left" alt="Mahfuz Zayn | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" fill="white" color="white" />][stackoverflow]
 [<img align="left" alt="Mahfuz Zayn | Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackexchange.svg" />][stackexchange]
 [<img align="left" alt="Mahfuz Zayn | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/steam.svg" />][steam]
 [<img align="left" alt="Mahfuz Zayn | Opencollective" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/opencollective.svg" />][opencollective]
