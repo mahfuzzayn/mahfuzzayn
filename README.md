@@ -67,9 +67,9 @@
 <br />
 <br />
 
-# 🕒 Stagetimer Clone
+# GitHub Stats:
 
-[![Last Commit](https://img.shields.io/github/last-commit/mahfuzzayn/stagetimer-clone)](https://github.com/mahfuzzayn/stagetimer-clone/commits)
-[![Commit Activity](https://img.shields.io/github/commit-activity/m/mahfuzzayn/stagetimer-clone)](https://github.com/mahfuzzayn/stagetimer-clone/graphs/commit-activity)
-
-A real-time stage timer app built with WebSockets and React.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuzzayn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzzayn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
