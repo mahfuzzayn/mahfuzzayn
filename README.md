@@ -67,4 +67,9 @@
 <br />
 <br />
 
-![GitHub commit count](https://img.shields.io/github/commit-count/mahfuzzayn/stagetimer-clone)
+# 🕒 Stagetimer Clone
+
+[![Last Commit](https://img.shields.io/github/last-commit/mahfuzzayn/stagetimer-clone)](https://github.com/mahfuzzayn/stagetimer-clone/commits)
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/mahfuzzayn/stagetimer-clone)](https://github.com/mahfuzzayn/stagetimer-clone/graphs/commit-activity)
+
+A real-time stage timer app built with WebSockets and React.
