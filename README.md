@@ -66,3 +66,5 @@
 
 <br />
 <br />
+
+![GitHub commit count](https://img.shields.io/github/commit-count/mahfuzzayn/stagetimer-clone)
