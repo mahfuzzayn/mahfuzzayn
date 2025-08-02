@@ -1,28 +1,28 @@
 [![Mahfuz Zayn Banner](https://res.cloudinary.com/dvd0x20di/image/upload/v1754163233/Github_Banner_Mahfuz_Zayn_ro1jqz.jpg)](https://mahfuzzayn.vercel.app/)
 
-**Hi there, I'm Mahfuz Zayn👋**
+<h1 align="left">Hi there, I'm Mahfuz Zayn</h1>
 
-**I'm a Frontend Developer, MERN Stack Developer, and Perfectionist.**
-- 🌱 I’m currently learning Full Stack Web Development
+###
+
+**I'm a frontend developer** with expertise in **React.js, Next.js 15, TypeScript, Redux Toolkit, and Tailwind CSS**.  
+I build **scalable, high-performance web applications** that are **responsive and accessible**, prioritizing **clean architecture** and **user experience**.
+
+My experience extends to **full-stack development with the MERN stack**, seamlessly integrating advanced design systems like **ShadCN UI** and **MUI** to deliver **polished interfaces**.  
+For dynamic and engaging user interactions, I leverage **Framer Motion** to create **smooth, captivating animations**.
+
+- 🌱 I’m currently learning Network Marketing
 - 👯 I’m looking to collaborate with team or organization
 - 🥅 2025 Goals: Contribute more to Open Source projects
 
-**Connect with me**
+###
 
-[<img align="left" alt="Mahfuz Zayn | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Mahfuz Zayn | Stack Exchange" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/stackexchange.svg" />][stackexchange]
-[<img align="left" alt="Mahfuz Zayn | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/steam.svg" />][steam]
-[<img align="left" alt="Mahfuz Zayn | Opencollective" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/opencollective.svg" />][opencollective]
-[<img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="official_dulin's DEV Profile" height="22" width="22">][dev.to]
-[<img align="left" alt="hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="producthunt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/producthunt.svg" />][producthunt]
-[<img align="left" alt="Mahfuz Zayn | codeium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/codeium.svg" />][codeium]
+## 🌐 Connect with me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahfuz_zayn) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahfuzzzayn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfuzzayn) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mahfuzzayn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahfuzzzayn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfuzzayn@gmail.com) 
 
+##
 
-<br />
-<br />
-
-**Languages and Tools**
+## 💻 Tech Stack
+###
 
 <div float="left">
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/36/000000/javascript.png"/>
@@ -42,30 +42,7 @@
 <img align="left" alt="Express" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" />
 </div>
 
-<!-- <br />
-<br />
-<br />
-<br />
-
-
-<!-- hide counter -->
-<a href="https://info.flagcounter.com/ab0j"><img src="https://s11.flagcounter.com/count2/ab0j/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_50/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" width="0px" height="0px" border="0"></a>
-
-[stackoverflow]: https://mahfuzzayn.verce.app
-[stackexchange]: https://mahfuzzayn.verce.app
-[steam]: https://mahfuzzayn.verce.app
-[codewars]: https://mahfuzzayn.verce.app
-[imgur]: https://mahfuzzayn.verce.app
-[wikipedia]: https://mahfuzzayn.verce.app
-[opencollective]: https://mahfuzzayn.verce.app
-[dev.to]: https://mahfuzzayn.verce.app
-[HackerRank]: https://mahfuzzayn.verce.app
-[producthunt]: https://mahfuzzayn.verce.app
-[soundcloud]: https://mahfuzzayn.verce.app
-[codeium]: https://mahfuzzayn.verce.app
-
-<br />
-<br />
+# 📊 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfuzzayn&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="mahfuzzayn's Stats"  />
