@@ -53,5 +53,8 @@ For dynamic and engaging user interactions, I leverage **Framer Motion** to crea
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuzzayn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mahfuzzayn&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
+
 ###
 
