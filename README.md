@@ -40,7 +40,10 @@ For dynamic and engaging user interactions, I leverage **Framer Motion** to crea
 <img align="left" alt="Express" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/express/express.png" />
 </div>
 
-# 📊 GitHub Stats
+<br />
+<br />
+
+## 📊 GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfuzzayn&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="mahfuzzayn's Stats"  />
