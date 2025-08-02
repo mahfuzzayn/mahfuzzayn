@@ -54,7 +54,7 @@ For dynamic and engaging user interactions, I leverage **Framer Motion** to crea
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mahfuzzayn&theme=github_light&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mahfuzzayn&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
 ###
 
