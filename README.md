@@ -7,8 +7,7 @@
 **I'm a frontend developer** with expertise in **React.js, Next.js 15, TypeScript, Redux Toolkit, and Tailwind CSS**.  
 I build **scalable, high-performance web applications** that are **responsive and accessible**, prioritizing **clean architecture** and **user experience**.
 
-My experience extends to **full-stack development with the MERN stack**, seamlessly integrating advanced design systems like **ShadCN UI** and **MUI** to deliver **polished interfaces**.  
-For dynamic and engaging user interactions, I leverage **Framer Motion** to create **smooth, captivating animations**.
+I prioritize designing with the user in mind, making sure each project I create is customized to address the unique requirements and goals of its audience.
 
 - 🌱 I’m currently learning Network Marketing
 - 👯 I’m looking to collaborate with team or organization
