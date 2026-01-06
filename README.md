@@ -1,4 +1,4 @@
-[![Mahfuz Zayn Banner]([https://res.cloudinary.com/dvd0x20di/image/upload/v1754163233/Github_Banner_Mahfuz_Zayn_ro1jqz.jpg](https://res.cloudinary.com/dvd0x20di/image/upload/v1767729575/LinkedIn_Banner_Design_Mahfuz_Zayn_Jan_26_lac4iu.jpg))](https://mahfuzzayn.vercel.app/)
+[![Mahfuz Zayn Banner]([https://res.cloudinary.com/dvd0x20di/image/upload/v1767729575/LinkedIn_Banner_Design_Mahfuz_Zayn_Jan_26_lac4iu.jpg](https://mahfuzzayn.vercel.app/)
 
 <h1 align="left">Hi there, I'm Mahfuz Zayn</h1>
 
